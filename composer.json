@@ -24,7 +24,7 @@
     "illuminate/container": "^8",
     "illuminate/database": "^8",
     "illuminate/pagination": "^8",
-    "symfony/console": "^6",
+    "symfony/console": "^5",
     "jgrossi/corcel": "^5.0"
   },
   "extra": {
